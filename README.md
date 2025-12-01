@@ -55,7 +55,7 @@ Database	SQLite (local demo)
 Deployment	Streamlit Cloud / Render
 
 ## 📂 Project Structure
-`
+```
 DeepSecure.AI
 │── app.py
 │── requirements.txt
@@ -74,7 +74,7 @@ DeepSecure.AI
 │
 ├── ML-Model/               # (Optional) Your model files
 └── ML-Model-Testing/
-`
+```
 ## 🚀 Local Setup
 ### 1️⃣ Clone the repository
 `git clone https://github.com/<your-user>/<repo>.git
@@ -86,3 +86,4 @@ cd <repo>
 
 ### 3️⃣ Run the app
 `streamlit run app.py`
+
