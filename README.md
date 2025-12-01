@@ -89,5 +89,13 @@ cd <repo>
 
 
 ## 📸 Screenshots
+
+Login or Register 
 ![App Screenshot](assets/Screenshot1.png)
+
+![App Screenshot](assets/Screenshot 2.png)
+
+
+
+
 
