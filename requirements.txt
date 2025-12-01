@@ -1,0 +1,12 @@
+streamlit>=1.22.0
+streamlit-lottie
+requests
+numpy
+opencv-python-headless
+Pillow
+pandas
+scikit-learn
+joblib
+tensorflow   # optional, only if you will use TF models
+torch        # optional, only if you will use PyTorch models
+sqlalchemy
