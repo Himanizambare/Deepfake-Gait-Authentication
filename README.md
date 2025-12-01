@@ -88,12 +88,8 @@ cd <repo>
 ```streamlit run app.py```
 
 
-## 📸 Screenshots
 
-Login or Register 
-![App Screenshot](assets/Screenshot1.png)
 
-![App Screenshot](assets/Screenshot 2.png)
 
 
 
