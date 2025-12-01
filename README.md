@@ -77,13 +77,13 @@ DeepSecure.AI
 ```
 ## 🚀 Local Setup
 ### 1️⃣ Clone the repository
-`git clone https://github.com/<your-user>/<repo>.git
+```git clone https://github.com/<your-user>/<repo>.git
 cd <repo>
-`
+```
 
 ### 2️⃣ Install dependencies
-` pip install -r requirements.txt`
+``` pip install -r requirements.txt```
 
 ### 3️⃣ Run the app
-`streamlit run app.py`
+```streamlit run app.py```
 
