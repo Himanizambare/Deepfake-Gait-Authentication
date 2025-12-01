@@ -87,3 +87,7 @@ cd <repo>
 ### 3️⃣ Run the app
 ```streamlit run app.py```
 
+
+## 📸 Screenshots
+![App Screenshot](assets/Screenshot1.png)
+
